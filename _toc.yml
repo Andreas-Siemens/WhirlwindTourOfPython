@@ -1,0 +1,22 @@
+﻿# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+root: Index
+format: jb-book
+#format: jb-article
+#numbered: false
+
+defaults:
+  numbered: false
+  
+parts:
+- caption: Tour
+  chapters:
+  - file: 00-Introduction
+  - file: 01-How-to-Run-Python-Code
+  - file: 02-Basic-Python-Syntax
+  - file: 03-Semantics-Variables
+  - file: 04-Semantics-Operators
+
+
+
