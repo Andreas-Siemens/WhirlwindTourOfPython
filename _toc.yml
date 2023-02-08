@@ -1,7 +1,7 @@
 ﻿# Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-root: Index
+root: Index.ipynb
 format: jb-book
 #format: jb-article
 #numbered: false
@@ -17,6 +17,21 @@ parts:
   - file: 02-Basic-Python-Syntax
   - file: 03-Semantics-Variables
   - file: 04-Semantics-Operators
-
+  - file: 05-Built-in-Scalar-Types
+  - file: 06-Built-in-Data-Structures
+  - file: 07-Control-Flow-Statements
+  - file: 08-Defining-Functions
+  - file: 09-Errors-and-Exceptions
+  - file: 10-Iterators
+  - file: 11-List-Comprehensions
+  - file: 12-Generators
+  - file: 13-Modules-and-Packages
+  - file: 14-Strings-and-Regular-Expressions
+  - file: 15-Preview-of-Data-Science-Tools
+  - file: 16-Further-Resources
+  - file: 17-Figures
+- caption: License
+  chapters:
+  - file: LICENSE
 
 
